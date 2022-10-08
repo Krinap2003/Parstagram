@@ -1,0 +1,5 @@
+Target dependency graph (3 targets)
+Pods-Instagram in Pods, no dependencies
+Pods-Instagram-InstagramUITests in Pods, no dependencies
+Pods-InstagramTests in Pods, depends on:
+Pods-Instagram in Pods (explicit)

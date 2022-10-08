@@ -1,0 +1,51 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b2a6cf7dfc7cef2cf3f23fed3345d3d5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98426c09d41ddd24cf87f5c9734cfd188c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f290a4f8078a02a0ae9b1298e5140b3f"
+    }
+  ],
+  "containerPath" : "/Users/krinapatel/Desktop/Other Code/Codepath/Instagram/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/krinapatel/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/krinapatel/Library/Developer/Xcode/DerivedData/Pods-efhirddgnyhpjuhehlbxehkbpxgv/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/krinapatel/Library/Developer/Xcode/DerivedData/Pods-efhirddgnyhpjuhehlbxehkbpxgv/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
