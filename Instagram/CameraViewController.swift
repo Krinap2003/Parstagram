@@ -55,7 +55,7 @@ class CameraViewController: UIViewController, UIImagePickerControllerDelegate, U
 //            picker.sourceType = .camera
 //        }else{
             picker.sourceType = .photoLibrary
-        //}
+       // }
         
         present(picker, animated: true, completion: nil)
     }
